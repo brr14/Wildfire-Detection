@@ -1,0 +1,4 @@
+# Integration of wildfire monitoring and surveillance with advanced ICT systems
+This project addresses the critical challenges of wildfire monitoring and management through the integration of advanced Information and Communication Technology (ICT) systems. We propose a comprehensive framework combining Internet of Things (IoT) sensors, deep learning-based image recognition, and Geographic Information Systems (GIS) to enable real-time wildfire detection and risk assessment.
+
+The system leverages a 4-layer Convolutional Neural Network (CNN) for fire classification, IoT sensors for environmental monitoring, and GIS technology for dynamic risk mapping. Initial results indicate enhanced early warning capabilities and improved resource allocation, representing a significant step forward in employing integrated technologies for wildfire management and response. 
